@@ -1,0 +1,11 @@
+Copyright © 2026 Krystian Berner <humanlyhuman420@pm.me>. All rights reserved.
+
+The visual assets, artwork, icons, and images governed by this license are
+the exclusive property of the copyright holder and are NOT licensed under the
+GNU Affero General Public License (AGPL).
+
+No permission is granted to copy, distribute, modify, publish, or use these
+assets for any purpose—commercial or non-commercial—except as strictly
+necessary to compile and run the unmodified software for personal or internal
+evaluation, unless you have obtained prior written permission from the
+copyright owner.
